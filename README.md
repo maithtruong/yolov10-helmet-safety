@@ -1,0 +1,1 @@
+An implementation of YOLOv10 on the task of detecting whether a person is wearing a safety helmet or not.
